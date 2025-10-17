@@ -1,14 +1,11 @@
 ## Overview
 
-This is a simple "Hello, World!" webpage. It displays the text "Hello, World!" as a heading.
+This is a simple "Hello, World!" webpage. It displays the text "Hello, World!" as a level 1 heading.
 
 ## Setup
 
-To run this webpage:
-
-1.  Save the code as `index.html`.
-2.  Open the `index.html` file in your web browser.
+No setup is required. Simply open the `index.html` file in a web browser.
 
 ## Usage
 
-Simply open the `index.html` file in any web browser to view the "Hello, World!" message.
+Open the `index.html` file in a web browser (e.g., Chrome, Firefox, Safari). The page will display "Hello, World!".
